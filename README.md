@@ -6,9 +6,11 @@ The calculation is done using Gauss Jordan Elimination. Due to high algorithm ti
 ![image](https://user-images.githubusercontent.com/97732966/187079491-65be9895-4b42-4fba-94b1-444fb01331b6.png)
 
 The input format is fixed. So, wrong input format can affect to the calculation. Here is the example of the input:<br><br>
+<b>!!! Use "." for non-integer number</b><br>
 <b>2, 0, 2, 2</b> // row 1 <br>
 <b>5, 3, 6, 21</b> // row 2<br>
-<b>0, 4, 0, 20</b> // row 3<br>
+<b>0, 4, 0, 20</b> // row 3<br><br>
+
 
 This program displays the steps and the final solution as you can see below:
 
